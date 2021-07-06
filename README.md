@@ -1,4 +1,4 @@
-# Slicing-Flutter-Random-Exploration-PixelBWA/README.md
+# Slicing-Flutter-Random-Exploration-PixelBWA
 <br />It's the process of slicing from UI/UX into flutter.
 <br /><br />UI/UX From Pixel Built With Angga
 <br />Link : https://pixel.buildwithangga.com/details/random-exploration
