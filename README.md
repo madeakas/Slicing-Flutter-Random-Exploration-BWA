@@ -1,16 +1,5 @@
-# random_exploration
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# it's the process of slicing from UI/UX into flutter.
+<br />UI/UX From Pixel Built With Angga
+<br />Link : https://pixel.buildwithangga.com/details/random-exploration
+<br />Screenshoot :
+<br /><br />![Capture](https://user-images.githubusercontent.com/66621940/124636116-5ebe3200-deb2-11eb-9619-7ec6890885d3.PNG)
