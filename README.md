@@ -3,4 +3,4 @@
 <br /><br />UI/UX From Pixel Built With Angga
 <br />Link : https://pixel.buildwithangga.com/details/random-exploration
 <br /><br />Screenshot : 
-<br />![logo](https://pixel.buildwithangga.com/storage/assets/logo_weapon/SjSQUiolgxm9HPdUT3c0IQOa1XSdfZhsYa1RQZyx.png)
+<br />!![Capture](https://user-images.githubusercontent.com/66621940/124636116-5ebe3200-deb2-11eb-9619-7ec6890885d3.PNG)
